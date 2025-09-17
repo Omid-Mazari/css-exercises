@@ -5,6 +5,10 @@
     font-family: 'Verdana', 'DejaVu Sans', sans-serif;
 }
 
+.Cooler-class-selector {
+    font-size: 24px;
+}
+
 #ID {
     color: #0000ff;
     font-size: 36px;
